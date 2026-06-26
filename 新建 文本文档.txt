@@ -1,0 +1,3 @@
+http://api.1080zyku.com/inc/api.php/provide/vod
+http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8
+http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8
